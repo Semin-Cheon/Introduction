@@ -8,7 +8,7 @@
                                           or
                                   chsm0338@gmail.com
 
-# To visitors (2022.03.04)
+# To visitors (2022.03.08 ~ 2023.08.22)
 Because of my duty of miltary service as a Korean army, it would be hard to feed-back to your comments until 2023.08.22.
 Even if that so, it would be slow, but i will keep update my history as possible.
 
