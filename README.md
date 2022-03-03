@@ -13,5 +13,6 @@ Because of my duty of miltary service as a Korean army, it would be hard to feed
 Even if that so, it would be slow, but i will keep update my history as possible.
 
 
-- History:  - 2021.09.01 ~ 2022.03.08 : MD/Ph.D integrated course in KAIST Physics department 
-            - 2022.03.08 ~ Current : Military Service
+# History:
+- 2021.09.01 ~ 2022.03.08 : MD/Ph.D integrated course in KAIST Physics department 
+- 2022.03.08 ~ Current : Military Service
