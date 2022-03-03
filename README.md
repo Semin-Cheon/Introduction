@@ -5,7 +5,7 @@
 - I'm interested in LTEM, AET and Developing algorithms via MATLAB.
 
       Related about LTEM, I've been developing aligning algorithm for defocus series of HR-LTEM 
-      images (and success! you can convince that from my github category named "Aligning_Defocus_series").
+      images (and success! you can convince that with the results from my one of the github categories named "Aligning_Defocus_series").
         and also developing TIE solving algorithms.
         
       Relted about AET, currently, I've been working on synthesizing Fe3O4 Supraparticles.
