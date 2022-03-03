@@ -4,6 +4,12 @@
 - Laboratory: MDAIL-KAIST (http://mdail.kaist.ac.kr/index.html)
 - I'm interested in LTEM, AET and Developing algorithms via MATLAB.
 
+      Related about LTEM, I've been developing aligning algorithm for defocus series of HR-LTEM 
+      images (and success! you can convince that from my github category named "Aligning_Defocus_series").
+        and also developing TIE solving algorithms.
+        
+      Relted about AET, currently, I've been working on synthesize Fe3O4 Supraparticles.
+
 - Please feel free to contact me: chsm0338@kaist.ac.kr
                                           or
                                   chsm0338@gmail.com
