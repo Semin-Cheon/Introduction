@@ -1,4 +1,4 @@
-- # Welcome to visit my github page!
+# Welcome to visit my github page!
 
 - Host: Semin Cheon. MD/Ph.D integrated course in KAIST Physics department 
 - Laboratory: MDAIL-KAIST (http://mdail.kaist.ac.kr/index.html)
