@@ -6,7 +6,7 @@
 
       Related about LTEM, I've been developing aligning algorithm for defocus series of HR-LTEM 
       images (and success! you can convince that with the results from my one of the github categories named "Aligning_Defocus_series").
-        and also developing TIE solving algorithms.
+        and i'm also developing TIE solving algorithms.
         
       Relted about AET, currently, I've been working on synthesizing Fe3O4 Supraparticles.
 
