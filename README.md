@@ -8,7 +8,7 @@
       images (and success! you can convince that from my github category named "Aligning_Defocus_series").
         and also developing TIE solving algorithms.
         
-      Relted about AET, currently, I've been working on synthesize Fe3O4 Supraparticles.
+      Relted about AET, currently, I've been working on synthesizing Fe3O4 Supraparticles.
 
 - Please feel free to contact me: chsm0338@kaist.ac.kr
                                           or
