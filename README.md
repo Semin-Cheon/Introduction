@@ -21,4 +21,4 @@ Even if that so, it would be slow, but i will keep update my history as possible
 
 # History:
 - 2021.09.01 ~ : MD/Ph.D integrated course in KAIST Physics department 
-- 2022.03.08 ~ Current : Military Service
+- 2022.03.08 ~ Current : Advanced Sensor researcher of KARC(Korea Army Research Center) in ROKA
